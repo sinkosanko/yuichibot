@@ -1,2 +1,2 @@
-#YuichiBot
+# YuichiBot
 Python bot for discord
