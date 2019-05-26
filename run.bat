@@ -1,0 +1,2 @@
+py yuichibot.py
+pause
